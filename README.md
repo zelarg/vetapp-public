@@ -2,7 +2,7 @@
 Modern scalable application to manage any-size veterinary practice.
 
 ## Download
-Download here: [VetApp v1.1.1](https://github.com/zelarg/vetapp-public/releases/download/v1.1.1/vetapp-client.exe)
+Download here: [VetApp v1.3.1](https://github.com/zelarg/vetapp-public/releases/download/v1.3.1/vetapp-client.exe)
 
 ## Install
 The application has 2 separate parts - **Server** and **Client**. Both can be on same computer, or they can be separated. For larger practices with multiple work-stations, we suggest to separate them and install server on always up & running computer. For small practices, both parts can sit on same PC.
